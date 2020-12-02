@@ -3133,4 +3133,15 @@ F 3 "" H 6300 4700 50  0001 C CNN
 $EndComp
 Text Notes 5800 4600 0    50   ~ 0
 HANDNESS
+$Comp
+L Mechanical:MountingHole LOGO1
+U 1 1 5FC8F2FB
+P 7500 9200
+F 0 "LOGO1" H 7600 9246 50  0000 L CNN
+F 1 "Casasagi_logo" H 7600 9155 50  0000 L CNN
+F 2 "casasagi:logo" H 7500 9200 50  0001 C CNN
+F 3 "~" H 7500 9200 50  0001 C CNN
+	1    7500 9200
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

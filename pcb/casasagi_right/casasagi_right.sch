@@ -3132,4 +3132,15 @@ NoConn ~ 6500 3400
 NoConn ~ 7800 3400
 NoConn ~ 7800 3500
 NoConn ~ 7800 3700
+$Comp
+L Mechanical:MountingHole LOGO1
+U 1 1 5FCE2F03
+P 7200 8900
+F 0 "LOGO1" H 7300 8946 50  0000 L CNN
+F 1 "casasagi_logo" H 7300 8855 50  0000 L CNN
+F 2 "casasagi:logo" H 7200 8900 50  0001 C CNN
+F 3 "~" H 7200 8900 50  0001 C CNN
+	1    7200 8900
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
