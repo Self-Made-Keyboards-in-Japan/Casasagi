@@ -4,12 +4,12 @@ EELAYER END
 $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
+Title "Casasagi Left"
+Date "2020-12-03"
+Rev "Alpha"
 Comp ""
-Comment1 ""
-Comment2 ""
+Comment1 "(c) 2020, SMKiJ Casasagi Contributors"
+Comment2 "Licensed under CC BY 4.0"
 Comment3 ""
 Comment4 ""
 $EndDescr
