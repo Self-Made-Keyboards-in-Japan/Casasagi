@@ -1,0 +1,21 @@
+Reference, Quantity, Value, Footprint, Datasheet,Vendor,MFR Part #,Vendor Part #,URL
+C101 ,1,10uF,Capacitor_SMD:C_0805_2012Metric,~,LCSC,CL21A106KAYNNNE,C15850,
+C102 ,1,1uF,Capacitor_SMD:C_0603_1608Metric,~,LCSC,CL10A105KB8NNNC,C15849,
+C103 C105 C106 C107 C108 ,5,0.1uF,Capacitor_SMD:C_0603_1608Metric,~,LCSC,CC0603KRX7R9BB104,C14663,
+C104 C109 ,2,22pF,Capacitor_SMD:C_0603_1608Metric,~,LCSC,CL10C220JB8NNNC,C1653,
+D101 ,1,PRTR5V0U2X,SMKiJ_keyboard:IC_SOT-143,https://assets.nexperia.com/documents/data-sheet/PRTR5V0U2X.pdf,LCSC,"PRTR5V0U2X,215",C12333,
+D102-129 ,28,1N4148,Diode_SMD:D_SOD-123,~,LCSC,1N4148W,C81598 ,
+F101 ,1,1A,Fuse:Fuse_1206_3216Metric,~,LCSC,nSMD050-13.2V ,C70074 ,
+J101 ,1,USB_C_Receptacle_USB2.0,Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12,https://www.usb.org/sites/default/files/documents/usb_type-c.zip,LCSC,TYPE-C-31-M-12,C165948 ,
+J102 ,1,AudioJack4,SMKiJ_keyboard:TRRS_MJ-4PP-9,~,秋月電子,MJ-4PP-9,C-06070 ,https://akizukidenshi.com/catalog/g/gC-06070/
+J103 ,1,2.54mm pitch,Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical,~,,,,
+LED101-128 ,28,SK6812-MINI-E,SMKiJ_keyboard:LED_YS-SK6812MINI-E,~,秋月電子,SK6812MINI-E,I-15478,https://akizukidenshi.com/catalog/g/gI-15478/
+R101-R108 ,8,5.11k,Resistor_SMD:R_0603_1608Metric,~,LCSC,0603WAF5101T5E ,C23186,
+R109 ,1,DNP,Resistor_SMD:R_0603_1608Metric,~,,,,
+R110 ,1,470R,Resistor_SMD:R_0603_1608Metric,~,LCSC,0603WAF4700T5E ,C23179 ,
+SW101-102,2,Tactile Switch,Button_Switch_SMD:SW_SPST_TL3342,~,LCSC,TS-1187A-B-A-B ,C318884,
+SW_MX101-128 ,28,MX Compatible keyboard switch,SMKiJ_keyboard:SW_Cherry_MX_1.00u_PCB,~,,,,
+U101 ,1,TLV73333PDBV,Package_TO_SOT_SMD:SOT-23-5,http://www.ti.com/lit/ds/symlink/tlv733p.pdf,LCSC,TLV73333PDBVR ,C134139 ,
+U102 ,1,AT24C256C-XHL-T,Package_SO:TSSOP-8_4.4x3mm_P0.65mm,http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8869-SEEPROM-AT24CS32-Datasheet.pdf,LCSC,AT24C256C-XHL-T,C33035 ,
+U103 ,1,STM32F072C8Tx,Package_QFP:LQFP-48_7x7mm_P0.5mm,http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00090510.pdf,LCSC,STM32F072C8T6 ,C80488,
+Y101 ,1,8MHz,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,~,LCSC,1C208000BC0R,C57131 ,

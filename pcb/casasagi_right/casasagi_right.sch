@@ -1511,9 +1511,9 @@ L Memory_EEPROM:AT24CS32-XHM U202
 U 1 1 60BD75D0
 P 11500 2000
 F 0 "U202" H 11100 2400 50  0000 C CNN
-F 1 "AT24CS32-XHM" H 11100 2300 50  0000 C CNN
+F 1 "AT24C256C-XHL-T" H 11100 2300 50  0000 C CNN
 F 2 "Package_SO:TSSOP-8_4.4x3mm_P0.65mm" H 11500 2000 50  0001 C CNN
-F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8869-SEEPROM-AT24CS32-Datasheet.pdf" H 11500 2000 50  0001 C CNN
+F 3 "http://ww1.microchip.com/downloads/en/devicedoc/atmel-8568-seeprom-at24c256c-datasheet.pdf" H 11500 2000 50  0001 C CNN
 	1    11500 2000
 	-1   0    0    -1  
 $EndComp
