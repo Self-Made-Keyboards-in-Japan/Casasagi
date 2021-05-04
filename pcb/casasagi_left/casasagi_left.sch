@@ -3144,4 +3144,48 @@ F 3 "~" H 7500 9200 50  0001 C CNN
 	1    7500 9200
 	1    0    0    -1  
 $EndComp
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 6092609F
+P 7500 9500
+F 0 "H1" H 7600 9546 50  0000 L CNN
+F 1 "M2" H 7600 9455 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 7500 9500 50  0001 C CNN
+F 3 "~" H 7500 9500 50  0001 C CNN
+	1    7500 9500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 60926ACA
+P 7500 9700
+F 0 "H2" H 7600 9746 50  0000 L CNN
+F 1 "M2" H 7600 9655 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 7500 9700 50  0001 C CNN
+F 3 "~" H 7500 9700 50  0001 C CNN
+	1    7500 9700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 60926C2D
+P 7500 9900
+F 0 "H3" H 7600 9946 50  0000 L CNN
+F 1 "M2" H 7600 9855 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 7500 9900 50  0001 C CNN
+F 3 "~" H 7500 9900 50  0001 C CNN
+	1    7500 9900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 60926DD9
+P 7500 10100
+F 0 "H4" H 7600 10146 50  0000 L CNN
+F 1 "M2" H 7600 10055 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2.2mm_M2" H 7500 10100 50  0001 C CNN
+F 3 "~" H 7500 10100 50  0001 C CNN
+	1    7500 10100
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
